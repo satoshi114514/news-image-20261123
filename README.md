@@ -1,7 +1,8 @@
-# News image — 23 November 2026
+# news-image-20261123
 
-![GitHub License](https://img.shields.io/github/license/satoshi114514/news-image-20261123)
-![GitHub repo size](https://img.shields.io/github/repo-size/satoshi114514/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/satoshi114514/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/satoshi114514/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A one-page newspaper front page that sums up the world news of Monday, 23 November 2026, built for the make.fun bounty [Sum up 23 November's world news in one image](https://make.fun/bounty/news-image-20261123).
 
@@ -20,7 +21,7 @@ Six stories, chosen for breadth across regions and beats:
 
 `main.ts` copies the finished front page, `entry.png`, to `/output/entry.png`. The program reads nothing from the network and writes the same bytes on every run.
 
-## Running it
+## Run it
 
 ```sh
 node main.ts
@@ -31,3 +32,7 @@ Run it from this folder and the image appears at `/output/entry.png` (1024 × 10
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=6eqnnsvy&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards
